@@ -1,0 +1,13 @@
+.social ul{
+	display: flex;
+	width: 30px;
+}
+
+.b ul{
+	display: inline-flex;
+	border-radius: 10px;
+
+}
+.b:hover ul{
+	opacity: 30;
+}
